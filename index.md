@@ -5,3 +5,8 @@
 ##### header size 5
 ###### header size 6
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+- [x] start project
+- [x] added headers
+- [x] added an image
+- [ ] adding a list
